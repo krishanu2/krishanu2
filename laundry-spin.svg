@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
+  <circle cx="80" cy="80" r="70" fill="#241F19" stroke="#3C3327" stroke-width="4"/>
+  <circle cx="80" cy="80" r="58" fill="none" stroke="#8A5B2C" stroke-width="3" stroke-dasharray="6 4"/>
+  <g transform-origin="80 80">
+    <circle cx="60" cy="55" r="7" fill="#C1813F" opacity="0.85"/>
+    <circle cx="100" cy="58" r="9" fill="#E9E0CD" opacity="0.7"/>
+    <circle cx="95" cy="100" r="6" fill="#8A5B2C" opacity="0.9"/>
+    <circle cx="58" cy="100" r="8" fill="#C1813F" opacity="0.6"/>
+    <circle cx="80" cy="80" r="5" fill="#E9E0CD" opacity="0.8"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 80 80" to="360 80 80" dur="3s" repeatCount="indefinite"/>
+  </g>
+  <circle cx="80" cy="80" r="70" fill="none" stroke="#C1813F" stroke-width="3"/>
+  <text x="80" y="148" text-anchor="middle" font-family="Fira Code, monospace" font-size="11" fill="#A89C84">spin cycle: 365</text>
+</svg>
