@@ -27,6 +27,19 @@
 <td width="50%" valign="top">
 
 ### 📊 The Funnel — Dhobi G
+100+ colleges contacted
+
+↓
+
+30+ qualified leads
+
+↓
+
+2 LOIs signed
+
+↓
+
+1 partnership closed
 
 
 </td>
