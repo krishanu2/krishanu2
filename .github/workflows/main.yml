@@ -1,4 +1,4 @@
-name: generate snake
+name: generate pivot path
 
 on:
   schedule:
@@ -15,11 +15,11 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
-          github_user_name: krishanu2
-          outputs: |
-            dist/snake.svg?color_snake=%23C1813F&color_dots=%23241F19,%233C3327,%238A5B2C,%23C1813F,%23E9E0CD
+          python-version: '3.11'
+      - run: python generate_journey.py
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
