@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="40" viewBox="0 0 220 40">
+  <rect width="220" height="40" rx="20" fill="#1B1814"/>
+  <text x="20" y="25" font-family="Fira Code, monospace" font-size="13" fill="#A89C84">Dream:</text>
+  <text x="78" y="25" font-family="Fira Code, monospace" font-size="13" font-weight="bold" fill="#E9E0CD">Google PM</text>
+  <g transform="translate(190,20)">
+    <circle r="3" fill="#4285F4">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3" cx="9" fill="#EA4335">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3" cx="18" fill="#FBBC05">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.2s" begin="0.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3" cx="27" fill="#34A853">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="1.2s" begin="0.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
