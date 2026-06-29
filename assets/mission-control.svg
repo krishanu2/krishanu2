@@ -1,198 +1,64 @@
-<svg width="900" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 450" width="1200" height="450">
+  <defs>
+    <filter id="status-glow">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
 
-<style>
-.title{
-font:700 30px 'IBM Plex Mono',monospace;
-fill:#F5F0E6;
-}
+  <rect width="1200" height="450" fill="#171717" rx="16"/>
+  <line x1="24" y1="100" x2="1176" y2="100" stroke="#232323" stroke-width="1"/>
 
-.heading{
-font:700 14px 'IBM Plex Mono',monospace;
-fill:#C1813F;
-letter-spacing:1px;
-}
+  <!-- name -->
+  <text x="24" y="46" font-family="IBM Plex Mono, monospace" font-size="28" font-weight="600" fill="#F5F0E6">KRISHANU MAHAPATRA</text>
+  <rect x="24" y="54" width="0" height="2" fill="#C1813F"><animate attributeName="width" values="0;280;280;0" keyTimes="0;0.3;0.8;1" dur="4s" repeatCount="indefinite"/></rect>
+  <text x="24" y="72" font-family="IBM Plex Mono, monospace" font-size="14" fill="#9A8C7C">Building my way into Product Management</text>
 
-.value{
-font:600 20px 'IBM Plex Mono',monospace;
-fill:#F5F0E6;
-}
+  <!-- status row -->
+  <circle cx="40" cy="124" r="6" fill="#2F7F7A" filter="url(#status-glow)">
+    <animate attributeName="r" values="6;8;6" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.6;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="58" y="130" font-family="IBM Plex Mono, monospace" font-size="13" font-weight="600" fill="#2F7F7A" letter-spacing="1">SYSTEM ONLINE</text>
 
-.small{
-font:500 12px 'IBM Plex Mono',monospace;
-fill:#8D7B68;
-}
-</style>
+  <!-- metrics row 1 -->
+  <text x="24" y="160" font-family="IBM Plex Mono, monospace" font-size="11" fill="#9A8C7C" letter-spacing="0.5">MISSION</text>
+  <text x="24" y="182" font-family="IBM Plex Mono, monospace" font-size="14" fill="#F5F0E6">Building products that solve</text>
+  <text x="24" y="200" font-family="IBM Plex Mono, monospace" font-size="14" fill="#F5F0E6">real problems</text>
 
-<rect
-x="0"
-y="0"
-width="900"
-height="320"
-rx="18"
-fill="#171717"
-/>
+  <text x="340" y="160" font-family="IBM Plex Mono, monospace" font-size="11" fill="#9A8C7C" letter-spacing="0.5">CURRENT BUILD</text>
+  <text x="340" y="182" font-family="IBM Plex Mono, monospace" font-size="14" fill="#F5F0E6">AI Planning Platform</text>
+  <text x="340" y="200" font-family="IBM Plex Mono, monospace" font-size="14" fill="#F5F0E6">(Claude + Web Search)</text>
 
-<text
-x="40"
-y="50"
-class="title">
-MISSION CONTROL
-</text>
+  <text x="656" y="160" font-family="IBM Plex Mono, monospace" font-size="11" fill="#9A8C7C" letter-spacing="0.5">CURRENT ROLE</text>
+  <text x="656" y="182" font-family="IBM Plex Mono, monospace" font-size="14" fill="#F5F0E6">Marketing &amp; Partnerships</text>
+  <text x="656" y="200" font-family="IBM Plex Mono, monospace" font-size="14" fill="#F5F0E6">@ Dhobi G</text>
 
-<!-- CARD 1 -->
+  <text x="972" y="160" font-family="IBM Plex Mono, monospace" font-size="11" fill="#9A8C7C" letter-spacing="0.5">BUILD MODE</text>
+  <text x="972" y="182" font-family="IBM Plex Mono, monospace" font-size="14" fill="#C1813F" font-weight="600">PUBLIC</text>
+  <text x="972" y="200" font-family="IBM Plex Mono, monospace" font-size="13" fill="#9A8C7C">(All work documented)</text>
 
-<rect
-x="40"
-y="80"
-width="185"
-height="90"
-rx="14"
-fill="#232323"
-stroke="#2C2C2C"
-/>
+  <!-- metrics row 2 -->
+  <text x="24" y="240" font-family="IBM Plex Mono, monospace" font-size="11" fill="#9A8C7C" letter-spacing="0.5">JOURNEY</text>
+  <text x="24" y="262" font-family="IBM Plex Mono, monospace" font-size="14" fill="#F5F0E6">Day 17 / 90 Monk Mode</text>
+  <text x="24" y="280" font-family="IBM Plex Mono, monospace" font-size="12" fill="#9A8C7C">Discipline reset challenge</text>
 
-<text
-x="60"
-y="108"
-class="heading">
-STATUS
-</text>
+  <text x="340" y="240" font-family="IBM Plex Mono, monospace" font-size="11" fill="#9A8C7C" letter-spacing="0.5">EXECUTION INDEX</text>
+  <rect x="340" y="262" width="300" height="8" rx="4" fill="#232323"/>
+  <rect x="340" y="262" width="180" height="8" rx="4" fill="#C1813F">
+    <animate attributeName="width" values="120;220;120" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <text x="340" y="290" font-family="IBM Plex Mono, monospace" font-size="12" fill="#9A8C7C">Productivity: 63%</text>
 
-<circle
-cx="70"
-cy="140"
-r="7"
-fill="#2F7F7A">
+  <text x="728" y="240" font-family="IBM Plex Mono, monospace" font-size="11" fill="#9A8C7C" letter-spacing="0.5">CURRENT SPRINT</text>
+  <text x="728" y="262" font-family="IBM Plex Mono, monospace" font-size="14" fill="#F5F0E6">IBM PM Certification</text>
+  <text x="728" y="280" font-family="IBM Plex Mono, monospace" font-size="12" fill="#9A8C7C">Formalizing PM skills</text>
 
-<animate
-attributeName="opacity"
-values="1;.4;1"
-dur="2s"
-repeatCount="indefinite"/>
+  <text x="972" y="240" font-family="IBM Plex Mono, monospace" font-size="11" fill="#9A8C7C" letter-spacing="0.5">COMMIT STREAK</text>
+  <text x="972" y="262" font-family="IBM Plex Mono, monospace" font-size="18" fill="#C1813F" font-weight="600">17 days</text>
+  <text x="972" y="280" font-family="IBM Plex Mono, monospace" font-size="12" fill="#9A8C7C">Building in public</text>
 
-</circle>
-
-<text
-x="90"
-y="146"
-class="value">
-BUILDING
-</text>
-
-<!-- CARD 2 -->
-
-<rect
-x="245"
-y="80"
-width="185"
-height="90"
-rx="14"
-fill="#232323"
-stroke="#2C2C2C"/>
-
-<text
-x="265"
-y="108"
-class="heading">
-MISSION
-</text>
-
-<text
-x="265"
-y="145"
-class="value">
-PRODUCT PM
-</text>
-
-<!-- CARD 3 -->
-
-<rect
-x="450"
-y="80"
-width="185"
-height="90"
-rx="14"
-fill="#232323"
-stroke="#2C2C2C"/>
-
-<text
-x="470"
-y="108"
-class="heading">
-CURRENT BUILD
-</text>
-
-<text
-x="470"
-y="145"
-class="value">
-AI PLANNER
-</text>
-
-<!-- CARD 4 -->
-
-<rect
-x="655"
-y="80"
-width="205"
-height="90"
-rx="14"
-fill="#232323"
-stroke="#2C2C2C"/>
-
-<text
-x="675"
-y="108"
-class="heading">
-CURRENT DAY
-</text>
-
-<text
-x="675"
-y="145"
-class="value">
-17 / 90
-</text>
-
-<!-- Progress -->
-
-<text
-x="40"
-y="225"
-class="heading">
-SYSTEM PROGRESS
-</text>
-
-<rect
-x="40"
-y="240"
-width="820"
-height="16"
-rx="8"
-fill="#2C2C2C"/>
-
-<rect
-x="40"
-y="240"
-width="160"
-height="16"
-rx="8"
-fill="#C1813F">
-
-<animate
-attributeName="width"
-from="0"
-to="160"
-dur="2.5s"
-fill="freeze"/>
-
-</rect>
-
-<text
-x="40"
-y="290"
-class="small">
-Building products. Learning publicly. Improving every day.
-</text>
-
+  <line x1="24" y1="320" x2="1176" y2="320" stroke="#232323" stroke-width="1"/>
+  <text x="24" y="356" font-family="IBM Plex Mono, monospace" font-size="13" fill="#9A8C7C" font-style="italic">Every commit compounds.</text>
+  <text x="1176" y="356" font-family="IBM Plex Mono, monospace" font-size="11" fill="#5A5248" text-anchor="end">Rebuilt in public, daily</text>
 </svg>
