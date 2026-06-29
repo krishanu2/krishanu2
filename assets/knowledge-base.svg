@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+  <rect width="1200" height="300" fill="#171717" rx="16"/>
+  <line x1="24" y1="24" x2="1176" y2="24" stroke="#232323" stroke-width="1"/>
+
+  <text x="24" y="52" font-family="IBM Plex Mono, monospace" font-size="24" font-weight="600" fill="#F5F0E6">KNOWLEDGE BASE</text>
+  <text x="24" y="78" font-family="IBM Plex Mono, monospace" font-size="14" fill="#9A8C7C">Documenting how I think, not just what I build.</text>
+  <line x1="24" y1="96" x2="1176" y2="96" stroke="#232323" stroke-width="1"/>
+
+  <text x="24" y="130" font-family="IBM Plex Mono, monospace" font-size="13" font-weight="600" fill="#C1813F">PRODUCT REQUIREMENTS</text>
+  <text x="24" y="156" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">PRDs</text>
+  <text x="24" y="180" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">Feature Specs</text>
+  <text x="24" y="204" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">Success Metrics</text>
+  <text x="24" y="228" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">Roadmaps</text>
+
+  <line x1="416" y1="116" x2="416" y2="250" stroke="#232323" stroke-width="1"/>
+
+  <text x="440" y="130" font-family="IBM Plex Mono, monospace" font-size="13" font-weight="600" fill="#C1813F">PRODUCT THINKING</text>
+  <text x="440" y="156" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">Case Studies</text>
+  <text x="440" y="180" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">Competitor Analysis</text>
+  <text x="440" y="204" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">UX Reviews</text>
+  <text x="440" y="228" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">Product Audits</text>
+
+  <line x1="808" y1="116" x2="808" y2="250" stroke="#232323" stroke-width="1"/>
+
+  <text x="832" y="130" font-family="IBM Plex Mono, monospace" font-size="13" font-weight="600" fill="#C1813F">LEARNING</text>
+  <text x="832" y="156" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">IBM Product Management</text>
+  <text x="832" y="180" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">Books</text>
+  <text x="832" y="204" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">Articles</text>
+  <text x="832" y="228" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">Experiments</text>
+
+  <line x1="24" y1="262" x2="1176" y2="262" stroke="#232323" stroke-width="1"/>
+  <text x="24" y="286" font-family="IBM Plex Mono, monospace" font-size="13" fill="#9A8C7C" font-style="italic">Being a PM isn't writing user stories. It's understanding people well enough to know which stories matter.</text>
+</svg>
