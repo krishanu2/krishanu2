@@ -14,11 +14,29 @@
 
 ---
 
+## What This Profile Is
+
+This isn't a collection of repositories. It's a public, dated record of a career transition.
+
+I'm currently in Marketing & Partnerships at Dhobi G, transitioning deliberately into Product Management — not by waiting for the title, but by doing the actual work of a PM today: researching problems, prioritizing ruthlessly, writing specs, shipping things, and documenting every step in public.
+
+Every section below is real. Every number is accurate. Nothing here is aspirational copy — it's a running log.
+
+---
+
 <img src="assets/journey-engine.svg" width="100%" alt="Journey Engine"/>
 
 ---
 
+<img src="assets/experience-timeline.svg" width="100%" alt="Experience Timeline"/>
+
+---
+
 <img src="assets/career-dashboard.svg" width="100%" alt="Career Dashboard"/>
+
+---
+
+<img src="assets/skills-in-action.svg" width="100%" alt="Skills in Action"/>
 
 ---
 
@@ -57,11 +75,19 @@ Small progress every day beats occasional bursts of motivation.
 
 **AI & Data** — Machine Learning · Pandas · NumPy · Streamlit
 
-**Currently Learning** — Product Management · Figma · System Design
+**Currently Learning** — Product Management (IBM cert, in progress) · SQL (SQLBolt + HackerRank) · Figma · System Design
+
+**Tools** — Claude Code · GitHub · Notion · Jira (learning)
 
 ---
 
+## GitHub Activity
+
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishanu2&bg_color=171717&color=C1813F&line=C1813F&point=F5F0E6&area=true&hide_border=true&area_color=C1813F" width="100%"/>
+
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=krishanu2&show_icons=true&hide_border=true&bg_color=171717&title_color=C1813F&text_color=E8E4D8&icon_color=C1813F"/>
 
