@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" width="1200" height="460">
+  <rect width="1200" height="460" fill="#171717" rx="16"/>
+  <line x1="24" y1="24" x2="1176" y2="24" stroke="#232323" stroke-width="1"/>
+
+  <text x="24" y="52" font-family="IBM Plex Mono, monospace" font-size="24" font-weight="600" fill="#F5F0E6">PRODUCT LAB</text>
+  <text x="24" y="78" font-family="IBM Plex Mono, monospace" font-size="14" fill="#9A8C7C">The goal isn't to build the most projects. It's to build products that solve real problems.</text>
+  <line x1="24" y1="96" x2="1176" y2="96" stroke="#232323" stroke-width="1"/>
+
+  <rect x="24" y="116" width="368" height="320" rx="12" fill="#1E1E1E"/>
+  <text x="44" y="148" font-family="IBM Plex Mono, monospace" font-size="15" font-weight="600" fill="#F5F0E6">Delivery Delay Predictor</text>
+  <text x="44" y="176" font-family="IBM Plex Mono, monospace" font-size="11" fill="#9A8C7C">PROBLEM</text>
+  <text x="44" y="196" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">Businesses struggle to</text>
+  <text x="44" y="214" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">predict delayed deliveries.</text>
+  <text x="44" y="246" font-family="IBM Plex Mono, monospace" font-size="11" fill="#9A8C7C">SOLUTION</text>
+  <text x="44" y="266" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">ML-powered dashboard,</text>
+  <text x="44" y="284" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">built with Streamlit.</text>
+  <text x="44" y="316" font-family="IBM Plex Mono, monospace" font-size="11" fill="#9A8C7C">TECH</text>
+  <text x="44" y="336" font-family="IBM Plex Mono, monospace" font-size="12" fill="#E8E4D8">Python · Scikit-learn · Streamlit</text>
+  <circle cx="50" cy="404" r="5" fill="#C1813F"/>
+  <text x="62" y="408" font-family="IBM Plex Mono, monospace" font-size="12" fill="#C1813F">Improving</text>
+
+  <rect x="416" y="116" width="368" height="320" rx="12" fill="#1E1E1E"/>
+  <text x="436" y="148" font-family="IBM Plex Mono, monospace" font-size="15" font-weight="600" fill="#F5F0E6">Thermal Life Detector</text>
+  <text x="436" y="176" font-family="IBM Plex Mono, monospace" font-size="11" fill="#9A8C7C">PROBLEM</text>
+  <text x="436" y="196" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">Finding survivors during</text>
+  <text x="436" y="214" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">disasters is slow.</text>
+  <text x="436" y="246" font-family="IBM Plex Mono, monospace" font-size="11" fill="#9A8C7C">SOLUTION</text>
+  <text x="436" y="266" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">YOLOv8-based thermal</text>
+  <text x="436" y="284" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">imaging detection, with GUI.</text>
+  <text x="436" y="316" font-family="IBM Plex Mono, monospace" font-size="11" fill="#9A8C7C">TECH</text>
+  <text x="436" y="336" font-family="IBM Plex Mono, monospace" font-size="12" fill="#E8E4D8">Python · YOLOv8 · OpenCV</text>
+  <circle cx="442" cy="404" r="5" fill="#2F7F7A"/>
+  <text x="454" y="408" font-family="IBM Plex Mono, monospace" font-size="12" fill="#2F7F7A">Completed</text>
+
+  <rect x="808" y="116" width="368" height="320" rx="12" fill="#1E1E1E"/>
+  <text x="828" y="148" font-family="IBM Plex Mono, monospace" font-size="15" font-weight="600" fill="#F5F0E6">SLA Tracker</text>
+  <text x="828" y="176" font-family="IBM Plex Mono, monospace" font-size="11" fill="#9A8C7C">PROBLEM</text>
+  <text x="828" y="196" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">Manual SLA tracking</text>
+  <text x="828" y="214" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">wastes operational time.</text>
+  <text x="828" y="246" font-family="IBM Plex Mono, monospace" font-size="11" fill="#9A8C7C">SOLUTION</text>
+  <text x="828" y="266" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">Automated monitoring with</text>
+  <text x="828" y="284" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">PDF reports + email alerts.</text>
+  <text x="828" y="316" font-family="IBM Plex Mono, monospace" font-size="11" fill="#9A8C7C">TECH</text>
+  <text x="828" y="336" font-family="IBM Plex Mono, monospace" font-size="12" fill="#E8E4D8">Python · Tkinter · SMTP</text>
+  <circle cx="834" cy="404" r="5" fill="#2F7F7A"/>
+  <text x="846" y="408" font-family="IBM Plex Mono, monospace" font-size="12" fill="#2F7F7A">Completed</text>
+
+  <line x1="24" y1="438" x2="1176" y2="438" stroke="#232323" stroke-width="1"/>
+</svg>
