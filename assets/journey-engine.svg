@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280">
+  <!--
+    JOURNEY ENGINE
+    90-day discipline path, redesigned to match Mission Control system
+    Reads live data from days.json via generate_journey.py
+    This is a STATIC TEMPLATE — the Python script regenerates the dots/line below
+  -->
+
+  <defs>
+    <filter id="dot-glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="280" fill="#171717" rx="16"/>
+  <line x1="24" y1="24" x2="1176" y2="24" stroke="#232323" stroke-width="1"/>
+
+  <!-- Header -->
+  <text x="24" y="52" font-family="IBM Plex Mono, monospace" font-size="24" font-weight="600" fill="#F5F0E6">
+    JOURNEY ENGINE
+  </text>
+  <text x="24" y="78" font-family="IBM Plex Mono, monospace" font-size="14" fill="#9A8C7C">
+    Day 17 of 90 — discipline reset, tracked daily
+  </text>
+
+  <line x1="24" y1="96" x2="1176" y2="96" stroke="#232323" stroke-width="1"/>
+
+  <!-- Path line (placeholder straight track, script will replace with real wave + dots) -->
+  <line x1="60" y1="180" x2="1140" y2="180" stroke="#232323" stroke-width="2"/>
+
+  <!-- Example dots: PAST (filled bronze), TODAY (glowing), FUTURE (faded) -->
+  <!-- generate_journey.py will replace this block with one circle per day -->
+  <circle cx="100" cy="180" r="5" fill="#C1813F"/>
+  <circle cx="150" cy="180" r="5" fill="#C1813F"/>
+  <circle cx="200" cy="180" r="5" fill="#C1813F"/>
+  <circle cx="250" cy="180" r="5" fill="#8A5B2C"/>
+  <circle cx="300" cy="180" r="5" fill="#C1813F"/>
+
+  <!-- Today's marker: glowing ring -->
+  <circle cx="350" cy="180" r="9" fill="none" stroke="#2F7F7A" stroke-width="2" filter="url(#dot-glow)">
+    <animate attributeName="r" values="8;11;8" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="350" cy="180" r="5" fill="#2F7F7A"/>
+
+  <!-- Future days: faded -->
+  <circle cx="400" cy="180" r="5" fill="#232323"/>
+  <circle cx="450" cy="180" r="5" fill="#232323"/>
+  <circle cx="500" cy="180" r="5" fill="#232323"/>
+
+  <!-- Footer stats -->
+  <text x="24" y="230" font-family="IBM Plex Mono, monospace" font-size="12" fill="#9A8C7C">
+    Strong days (6+/7 pillars): 9 of 17
+  </text>
+  <text x="1176" y="230" font-family="IBM Plex Mono, monospace" font-size="12" fill="#9A8C7C" text-anchor="end">
+    73 days remaining
+  </text>
+
+  <line x1="24" y1="246" x2="1176" y2="246" stroke="#232323" stroke-width="1"/>
+  <text x="24" y="266" font-family="IBM Plex Mono, monospace" font-size="13" fill="#9A8C7C" font-style="italic">
+    Every commit compounds.
+  </text>
+</svg>
