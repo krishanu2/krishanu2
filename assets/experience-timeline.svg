@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 860" width="1200" height="860">
+  <rect width="1200" height="860" fill="#171717" rx="16"/>
+  <line x1="24" y1="24" x2="1176" y2="24" stroke="#232323" stroke-width="1"/>
+  <text x="24" y="52" font-family="IBM Plex Mono, monospace" font-size="24" font-weight="600" fill="#F5F0E6">EXPERIENCE TIMELINE</text>
+  <text x="24" y="78" font-family="IBM Plex Mono, monospace" font-size="14" fill="#9A8C7C">Five roles. One throughline: solve the real problem, then ship.</text>
+  <line x1="24" y1="96" x2="1176" y2="96" stroke="#232323" stroke-width="1"/>
+
+  <!-- ROW 1: DHOBI G — washing machine, clothes tumbling -->
+  <rect x="24" y="112" width="1152" height="140" rx="12" fill="#1E1E1E"/>
+  <text x="48" y="142" font-family="IBM Plex Mono, monospace" font-size="16" font-weight="600" fill="#F5F0E6">Marketing &amp; Partnerships</text>
+  <text x="48" y="162" font-family="IBM Plex Mono, monospace" font-size="12" fill="#9A8C7C">Dhobi G · Nov 2025 — Present</text>
+  <text x="48" y="194" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">100+ colleges pitched · 2 partnerships closed</text>
+  <text x="48" y="214" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">Built a CRM outreach system from scratch</text>
+  <text x="48" y="238" font-family="IBM Plex Mono, monospace" font-size="11" fill="#C1813F" font-style="italic">Most deals aren't lost to competitors — they're lost to disorganization.</text>
+
+  <g transform="translate(995,124)">
+    <rect x="0" y="0" width="110" height="100" rx="14" fill="#171717" stroke="#2F2A22" stroke-width="2"/>
+    <rect x="12" y="10" width="36" height="8" rx="4" fill="#232323"/>
+    <circle cx="20" cy="14" r="2" fill="#C1813F"/>
+    <circle cx="55" cy="56" r="36" fill="#0F0F0F" stroke="#3A3328" stroke-width="6"/>
+    <circle cx="55" cy="56" r="36" fill="none" stroke="#C1813F" stroke-width="1.5" opacity="0.45"/>
+    <g>
+      <rect x="40" y="40" width="15" height="15" rx="5" fill="#C1813F"/>
+      <rect x="58" y="46" width="17" height="12" rx="5" fill="#E8E4D8" opacity="0.9"/>
+      <rect x="48" y="62" width="13" height="13" rx="5" fill="#2F7F7A" opacity="0.85"/>
+      <rect x="62" y="64" width="12" height="12" rx="4" fill="#8A5B2C"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 55 56" to="360 55 56" dur="2.8s" repeatCount="indefinite"/>
+    </g>
+    <rect x="12" y="88" width="86" height="5" rx="2.5" fill="#232323"/>
+    <rect x="12" y="88" width="30" height="5" rx="2.5" fill="#C1813F">
+      <animate attributeName="width" values="20;50;20" dur="3.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- ROW 2: MOVZZY — a car driving across, mobility -->
+  <rect x="24" y="266" width="1152" height="130" rx="12" fill="#1E1E1E"/>
+  <text x="48" y="296" font-family="IBM Plex Mono, monospace" font-size="16" font-weight="600" fill="#F5F0E6">Founder</text>
+  <text x="48" y="316" font-family="IBM Plex Mono, monospace" font-size="12" fill="#9A8C7C">MOVZZY · Jan 2026 — May 2026</text>
+  <text x="48" y="348" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">Built &amp; shipped a ride-reliability platform, solo</text>
+  <text x="48" y="368" font-family="IBM Plex Mono, monospace" font-size="11" fill="#2F7F7A" font-style="italic">Shipping solo means feeling every tradeoff yourself.</text>
+
+  <g>
+    <line x1="940" y1="370" x2="1150" y2="370" stroke="#232323" stroke-width="2"/>
+    <g>
+      <rect x="0" y="0" width="46" height="20" rx="8" fill="#C1813F"/>
+      <rect x="6" y="-10" width="28" height="14" rx="6" fill="#C1813F"/>
+      <circle cx="12" cy="20" r="6" fill="#171717" stroke="#9A8C7C" stroke-width="2"/>
+      <circle cx="36" cy="20" r="6" fill="#171717" stroke="#9A8C7C" stroke-width="2"/>
+      <animateTransform attributeName="transform" type="translate" values="950 340; 1090 340; 950 340" dur="3.4s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- ROW 3: MUSHLOOP — mushroom growing -->
+  <rect x="24" y="408" width="1152" height="130" rx="12" fill="#1E1E1E"/>
+  <text x="48" y="438" font-family="IBM Plex Mono, monospace" font-size="16" font-weight="600" fill="#F5F0E6">Founder's Office Intern</text>
+  <text x="48" y="458" font-family="IBM Plex Mono, monospace" font-size="12" fill="#9A8C7C">Mushloop · Jun 2025 — Aug 2025</text>
+  <text x="48" y="490" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">100% on-time delivery · competitive analysis, 20+ startups</text>
+  <text x="48" y="510" font-family="IBM Plex Mono, monospace" font-size="11" fill="#C1813F" font-style="italic">20 companies taught me more about what not to build.</text>
+
+  <g transform="translate(1020,450)">
+    <line x1="20" y1="40" x2="20" y2="60" stroke="#3A3328" stroke-width="4" stroke-linecap="round"/>
+    <g>
+      <ellipse cx="20" cy="34" rx="22" ry="14" fill="#C1813F"/>
+      <ellipse cx="20" cy="34" rx="22" ry="14" fill="none" stroke="#8A5B2C" stroke-width="1.5" opacity="0.5"/>
+      <circle cx="12" cy="28" r="2" fill="#E8E4D8" opacity="0.6"/>
+      <circle cx="28" cy="30" r="1.6" fill="#E8E4D8" opacity="0.6"/>
+      <animateTransform attributeName="transform" type="scale" values="0.3;1;0.3" dur="2.8s" repeatCount="indefinite" additive="sum"/>
+      <animateTransform attributeName="transform" type="translate" values="0 18; 0 0; 0 18" dur="2.8s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- ROW 4: METVY — headset + conversion bars -->
+  <rect x="24" y="550" width="1152" height="130" rx="12" fill="#1E1E1E"/>
+  <text x="48" y="580" font-family="IBM Plex Mono, monospace" font-size="16" font-weight="600" fill="#F5F0E6">Sales Associate</text>
+  <text x="48" y="600" font-family="IBM Plex Mono, monospace" font-size="12" fill="#9A8C7C">Metvy · Jul 2023 — Sep 2023</text>
+  <text x="48" y="632" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">Top performer 4 weeks running · led a 5-person team</text>
+  <text x="48" y="652" font-family="IBM Plex Mono, monospace" font-size="11" fill="#2F7F7A" font-style="italic">A visible funnel fixes itself.</text>
+
+  <g transform="translate(1015,575)">
+    <circle cx="20" cy="20" r="14" fill="#E8E4D8"/>
+    <path d="M8 18 A12 12 0 0 1 32 18" fill="none" stroke="#3A3328" stroke-width="3"/>
+    <rect x="4" y="16" width="6" height="10" rx="3" fill="#2F7F7A">
+      <animate attributeName="opacity" values="1;0.4;1" dur="1.4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="30" y="16" width="6" height="10" rx="3" fill="#2F7F7A"/>
+    <rect x="55" y="28" width="8" height="10" fill="#C1813F"/>
+    <rect x="67" y="20" width="8" height="18" fill="#C1813F"/>
+    <rect x="79" y="10" width="8" height="28" fill="#C1813F">
+      <animate attributeName="height" values="20;30;20" dur="2.2s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="18;8;18" dur="2.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- ROW 5: SRM ALUMNI — networking, connecting nodes -->
+  <rect x="24" y="692" width="1152" height="140" rx="12" fill="#1E1E1E"/>
+  <text x="48" y="722" font-family="IBM Plex Mono, monospace" font-size="16" font-weight="600" fill="#F5F0E6">Secretary</text>
+  <text x="48" y="742" font-family="IBM Plex Mono, monospace" font-size="12" fill="#9A8C7C">SRM Alumni Affairs · Sep 2025 — Apr 2026</text>
+  <text x="48" y="774" font-family="IBM Plex Mono, monospace" font-size="13" fill="#E8E4D8">Coordinated 500+ volunteers · 50+ events · 2,000+ at flagship fest</text>
+  <text x="48" y="794" font-family="IBM Plex Mono, monospace" font-size="11" fill="#C1813F" font-style="italic">Clear structure beats authority.</text>
+
+  <g transform="translate(990,710)">
+    <circle cx="60" cy="55" r="6" fill="#C1813F"/>
+    <circle cx="15" cy="25" r="4" fill="#2F7F7A"/>
+    <circle cx="105" cy="25" r="4" fill="#2F7F7A"/>
+    <circle cx="15" cy="85" r="4" fill="#8A5B2C"/>
+    <circle cx="105" cy="85" r="4" fill="#8A5B2C"/>
+    <g stroke="#2F7F7A" stroke-width="1.5" opacity="0.6">
+      <line x1="60" y1="55" x2="15" y2="25"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="2.4s" repeatCount="indefinite"/></line>
+      <line x1="60" y1="55" x2="105" y2="25"><animate attributeName="opacity" values="0.8;0.2;0.8" dur="2.4s" repeatCount="indefinite"/></line>
+      <line x1="60" y1="55" x2="15" y2="85"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></line>
+      <line x1="60" y1="55" x2="105" y2="85"><animate attributeName="opacity" values="0.8;0.2;0.8" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></line>
+    </g>
+  </g>
+
+  <line x1="24" y1="844" x2="1176" y2="844" stroke="#232323" stroke-width="1"/>
+</svg>
