@@ -1,102 +1,188 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Marketing+Executive+%E2%86%92+Product;100%2B+colleges+pitched.+1+partnership+closed.;Day+14%2F90+%E2%80%94+building+in+public;Currently%3A+shipping+an+AI+planning+tool&font=Fira+Code&center=true&width=750&height=50&color=C1813F&vCenter=true&size=22">
+# KRISHANU MAHAPATRA
+
+### Building Products in Public
+
+<p>
+From <strong>Marketing & Business Development</strong> to <strong>Product Management</strong> —
+one product, one lesson and one commit at a time.
+</p>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/krishanu2/krishanu2/main/dream-badge.svg" />
-
-<br><br>
-
-![Status](https://img.shields.io/badge/Day-14%2F90-C1813F?style=for-the-badge&labelColor=1B1814)
-![Role](https://img.shields.io/badge/Marketing-%E2%86%92_Product-8A5B2C?style=for-the-badge&labelColor=1B1814)
+> *"I don't want to become a Product Manager by waiting for an opportunity. I want to become one by building."*
 
 </div>
 
-<br>
+---
 
-<img src="https://raw.githubusercontent.com/krishanu2/krishanu2/output/pivot-path.svg" alt="The Pivot Path" width="100%"/>
+# About Me
 
-<p align="center"><sub>Each node is one day of a 90-day discipline reset. Color = how strong the day was. The glowing node is today.</sub></p>
+I'm documenting my transition into Product Management in public.
 
-<br>
+Every project in this profile represents something I wanted to learn, solve or improve.
 
-> I sell laundry. I'm switching to product. The numbers below are real — not because I'm proud of small ones, but because hiding them would be the lie.
+Rather than waiting until I "feel ready", I'm building products, writing product documents, analysing businesses and sharing the entire process.
 
-<br>
+My goal isn't simply to write better code.
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
+It's to become someone who understands users, solves meaningful problems and builds products that people genuinely enjoy using.
 
-<img src="https://raw.githubusercontent.com/krishanu2/krishanu2/main/laundry-spin.svg" width="140"/>
-<br>
-<sub>my day job, still spinning</sub>
+---
 
-</td>
-<td align="center" width="50%">
+# Current Mission
 
-<img src="https://raw.githubusercontent.com/krishanu2/krishanu2/main/xp-bar.svg" width="320"/>
-<br>
-<sub>my actual goal, still loading</sub>
+🎯 Become a Product Manager
 
-</td>
-</tr>
-</table>
-</div>
+📅 90-Day Product Journey
 
-<br>
+🚀 Build real-world products consistently
 
-<table>
-<tr>
-<td width="50%" valign="top">
+📖 Learn publicly
 
-### 📊 The Funnel — Dhobi G
-100+ colleges contacted
+💡 Improve every single day
 
-↓
+---
 
-30+ qualified leads
+# The Journey
 
-↓
+<img src="https://raw.githubusercontent.com/krishanu2/krishanu2/output/pivot-path.svg" width="100%" alt="90 Day Journey"/>
 
-2 LOIs signed
+<p align="center">
+Every node represents one day of my journey.
+I'm tracking consistency instead of perfection.
+</p>
 
-↓
+---
 
-1 partnership closed
+# Current Focus
 
-</td>
-<td width="50%" valign="top">
+| Building | Learning |
+|----------|----------|
+| AI Planning Tool | IBM Product Management |
+| Delivery Delay Predictor | Product Thinking |
+| GitHub Portfolio | User Research |
+| Product Case Studies | Product Strategy |
 
-### 🛠 What I'm Building
+---
 
-**[delivery-delay-predictor](https://github.com/krishanu2/delivery-delay-predictor)**
-ML-powered Streamlit dashboard predicting delivery delays
+# Career Impact
 
-**[thermal-life-detector](https://github.com/krishanu2/thermal-life-detector)**
-YOLOv8-based thermal imaging life detection
+Although I'm transitioning into Product Management, I've spent the last few years solving business problems through marketing, outreach and partnerships.
 
-**[SLA-Tracker](https://github.com/krishanu2/SLA-Tracker)**
-SLA monitoring with email alerts + PDF reporting
+### Dhobi G
 
-</td>
-</tr>
-</table>
-
-<br>
+- Contacted **100+ colleges**
+- Generated **30+ qualified opportunities**
+- Secured **2 Letters of Intent**
+- Closed **1 partnership**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishanu2&layout=compact&theme=dark&hide_border=true&title_color=C1813F&text_color=E9E0CD&bg_color=1B1814" />
+<img src="https://raw.githubusercontent.com/krishanu2/krishanu2/main/laundry-spin.svg" width="160"/>
 
 </div>
 
-<br>
+---
+
+# What I'm Building
+
+### 🚚 Delivery Delay Predictor
+
+Machine Learning dashboard for predicting delivery delays using Streamlit.
+
+---
+
+### 🌡 Thermal Life Detector
+
+YOLOv8 powered thermal imaging system for disaster response.
+
+---
+
+### 📊 SLA Tracker
+
+Track SLA violations, generate reports and automate notifications.
+
+---
+
+More projects coming soon as I continue documenting my journey.
+
+---
+
+# Philosophy
+
+I believe Product Management is more than writing PRDs or managing backlogs.
+
+It means:
+
+- Understanding people before features.
+- Measuring outcomes instead of outputs.
+- Solving the right problem before building the solution.
+- Shipping consistently.
+- Learning publicly.
+
+That's exactly what this GitHub represents.
+
+---
+
+# Tech Stack
+
+Product
+
+- Product Thinking
+- User Research
+- Competitive Analysis
+- Roadmapping
+
+Programming
+
+- Python
+- Java
+- C++
+- SQL
+
+AI / Data
+
+- Machine Learning
+- Streamlit
+- Pandas
+- NumPy
+
+Tools
+
+- Git
+- GitHub
+- VS Code
+- Figma (Learning)
+
+---
+
+# GitHub Stats
 
 <div align="center">
 
-**Find me:** &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1B1814?style=for-the-badge&logo=linkedin&logoColor=C1813F)](https://www.linkedin.com/in/krishanu-mahapatra-11a927272/)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishanu2&layout=compact&theme=dark&hide_border=true&title_color=C1813F&text_color=E9E0CD&bg_color=1B1814"/>
 
 </div>
+
+---
+
+# Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/krishanu-mahapatra-11a927272/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-C1813F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building today for the opportunities I'll earn tomorrow.
+
+</div>
+
